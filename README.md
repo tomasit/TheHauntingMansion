@@ -14,10 +14,12 @@ Then some steps need to be done before you can play the game :
 TheHauntingMansion is a game playable on keyboard and on xbox 360 controller.
 For a better experience we recommend playing on controller and with headphones.
 
+
+
 Some preview of the game :
 
 ![](images/readmeTHM.png)
 
 ![](images/Capture%20d’écran%20de%202021-08-16%2018-41-27.png)
 
-![](images/)
+![](images/Capture%20d’écran%20de%202021-08-16%2018-38-55.png)
