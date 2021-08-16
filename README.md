@@ -1,6 +1,5 @@
 # TheHauntingMansion
 
-![TheHantingMansionScreenReadme](Téléchargements/readmeTHM.png)
 
 TheHauntingMansion is a first person horror game made with Unity3D.
 Some steps need to be done before you can play the game :
