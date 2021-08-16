@@ -2,7 +2,10 @@
 
 TheHauntingMansion is a first person horror game made with Unity3D playable on Linux.
 
-Some steps need to be done before you can play the game :
+When you first try to clone the repo and unzip the `TheHauntingMansion.zip` file, some error 
+can happend due to Large File Storage uses.
+
+Then some steps need to be done before you can play the game :
 1. download Git lfs at https://git-lfs.github.com/ and install it on your device
 2. clone the repo with Git lfs `git lfs clone`
 3. unzip the file at `TheHauntingMansion/.git/lfs/objects/5a/cc`
