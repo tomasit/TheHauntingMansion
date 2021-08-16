@@ -16,8 +16,8 @@ For a better experience we recommend playing on controller and with headphones.
 
 Some preview of the game :
 
-![](images/)
+![](images/readmeTHM.png)
 
-![](images/)
+![](images/Capture%20d’écran%20de%202021-08-16%2018-41-27.png)
 
 ![](images/)
