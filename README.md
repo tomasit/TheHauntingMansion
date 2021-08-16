@@ -1,6 +1,6 @@
 # TheHauntingMansion
 
-TheHauntingMansion is a first person horror game made with Unity3D.
+TheHauntingMansion is a first person horror game made with Unity3D playable on Linux.
 
 Some steps need to be done before you can play the game :
 1. download Git lfs at https://git-lfs.github.com/ and install it on your device
