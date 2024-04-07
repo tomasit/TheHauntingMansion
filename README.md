@@ -18,7 +18,7 @@ For a better experience we recommend playing on controller and with headphones.
 
 Some preview of the game :
 
-![image](https://github.com/tomasit/TheHauntingMansion/assets/62654705/a73cd16d-1a21-464a-811e-c5d5eb5cf368)
+![Screenshot from 2024-04-07 19-31-33](https://github.com/tomasit/TheHauntingMansion/assets/62654705/874338a2-b22d-4015-ab94-82ae50268d0a)
 
 ![](images/readmeTHM.png)
 
